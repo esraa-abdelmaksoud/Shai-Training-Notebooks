@@ -1,3 +1,3 @@
 # Shai-Assignment-Notebooks
 
-This repository is created to combine all assignments submitted for SHAI Data Science program.
+This repository is created to combine all training docs submitted for the SHAI Data Science program.
