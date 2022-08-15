@@ -1,0 +1,8 @@
+
+1) The highest number of reported vaccines that caused adverse events is Moderna.
+2) Those who needed hospitalizations after taking the vaccine stayed in hospitals for a maximum of 5 days.
+3) More than three-fourths of the reported events were by females.
+4) Those who suffered the most from adverse reactions were between 30 to 50 years.
+5) The main symptoms were headache, pyrexia, chills, and fatigue.
+6) 13.34% of those who reported adverse events were hospitalized, 4.03% were life threatened, 2.66% were disabled, and 5.94% died.
+7) 69.08% of those who died already had a problematic medical history and 53.02% suffered from allergies.
